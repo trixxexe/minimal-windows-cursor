@@ -1,13 +1,13 @@
 # Minimal Windows Cursor Theme 🖱️✨
 > Clean, precision-crafted native Windows cursor pack with a signature cyan-blue neon halo (`#339cff`). Created by **ritam**.
 
-![Minimal Windows Cursors Preview](preview_by_ritam.png)
-
 ---
 
 ## 🌟 Overview
 
 **Minimal** is a high-precision, ergonomic cursor theme designed for Windows 10 and Windows 11. Built with mathematical cubic Bezier geometry and a luminous dual-layer Gaussian glow halo, it delivers a sleek aesthetic without draining your PC.
+
+LOOKS EXACTLY LIKE THE CURSOR CODEX AGENT USES IN COMPUTER USE !!!!
 
 Unlike third-party mouse software or overlay applications (like MouseX or cursor hook apps) which run active GPU/CPU background rendering loops at 72+ FPS, **Minimal** consists of **genuine, native Windows `.cur` files**. It runs directly inside the Windows graphics kernel with **0% CPU and 0% GPU overhead**.
 
