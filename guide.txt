@@ -1,0 +1,97 @@
+================================================================================
+                    MINIMAL WINDOWS CURSOR THEME
+                        Custom Pack by ritam
+================================================================================
+
+Thank you for downloading the Minimal Windows Cursor Pack!
+This theme is a clean, modern, precision-engineered cursor set featuring 
+an ergonomic arrow profile with a distinctive #339cff cyan-blue neon halo.
+
+Unlike third-party mouse software (such as MouseX or overlay apps) which run 
+active background GPU/CPU processes at 72+ FPS, this cursor pack consists of 
+GENUINE native Windows .cur files that run directly inside the Windows graphics 
+kernel with 0% CPU and 0% GPU overhead.
+
+
+--------------------------------------------------------------------------------
+                             WHAT'S IN THIS PACK
+--------------------------------------------------------------------------------
+
+Main Arrow Cursors (Choose your favorite!):
+- minimal_arrow_ritam.cur     : Minimal Authentic style (Obsidian dark body, 
+                                white stroke, luminous #339cff cyan-blue glow).
+- minimal_vibrant_ritam.cur   : Electric cyber-blue filled body with white stroke.
+- minimal_neon_ritam.cur      : Deep neon cyan glow core.
+
+Complete System Cursors (All matching the Minimal Blue aesthetic):
+- minimal_link_ritam.cur      : Hand / Link Select (with cyan touch badge)
+- minimal_beam_ritam.cur      : Text Select (I-Beam with cyan neon glow)
+- minimal_working_ritam.cur   : Working in Background (Arrow + orbital halo)
+- minimal_busy_ritam.cur      : Busy (Cyan orbital ring)
+- minimal_cross_ritam.cur     : Precision Select (Crosshair)
+- minimal_move_ritam.cur      : 4-Way Move
+- minimal_help_ritam.cur      : Help Select (Arrow + query badge)
+- minimal_unavail_ritam.cur   : Unavailable / Forbidden
+- minimal_size_ns_ritam.cur   : Vertical Resize
+- minimal_size_we_ritam.cur   : Horizontal Resize
+- minimal_size_nwse_ritam.cur : Diagonal Resize 1
+- minimal_size_nesw_ritam.cur : Diagonal Resize 2
+
+Multi-DPI Ready:
+Each cursor file embeds 5 distinct resolutions (32x32, 48x48, 64x64, 96x96, 
+and 128x128) with calibrated hotspots. It looks ultra-crisp at 100%, 125%, 
+150%, 175%, and 200%+ Windows display scaling!
+
+
+--------------------------------------------------------------------------------
+                           HOW TO INSTALL & APPLY
+--------------------------------------------------------------------------------
+
+METHOD 1: Instant 1-Click Live Install (Recommended)
+---------------------------------------------------
+1. Right-click "Install_Live_by_ritam.ps1" and choose "Run with PowerShell".
+2. The theme will apply immediately to your current desktop session!
+   (Compatible with both Windows PowerShell 5.1 and modern PowerShell 7 / pwsh).
+
+   Want the vibrant blue arrow variant instead?
+   Open PowerShell in this folder and run:
+   .\Install_Live_by_ritam.ps1 -Variant vibrant
+
+
+METHOD 2: Standard Windows Right-Click Install (.INF)
+-----------------------------------------------------
+1. Right-click "Install_by_ritam.inf" and select "Install" 
+   (on Windows 11, click "Show more options" -> "Install").
+2. Windows will copy the cursor files into your C:\Windows\Cursors folder 
+   and register the scheme "Minimal (by ritam)".
+3. Press Win + R, type: main.cpl ,,1 and press Enter.
+4. Under the "Scheme" dropdown, select "Minimal (by ritam)".
+5. Click "Apply" and "OK".
+
+
+METHOD 3: Manual Selection via Windows Settings
+-----------------------------------------------
+1. Press Win + R, type: main.cpl ,,1 and hit Enter.
+2. Under "Customize", select "Normal Select" and click "Browse...".
+3. Navigate to where you unzipped this pack, select "minimal_arrow_ritam.cur", 
+   and click "Open".
+4. Repeat for any other cursors you want, click "Save As...", give it a name, 
+   and click "Apply".
+
+
+--------------------------------------------------------------------------------
+                              HOW TO UNINSTALL
+--------------------------------------------------------------------------------
+To revert back to your standard Windows default cursor scheme anytime:
+- Right-click "Uninstall_by_ritam.ps1" and choose "Run with PowerShell", OR
+- Open Mouse Properties (main.cpl ,,1), select "(None)" or "Windows Default" 
+  from the Scheme dropdown, and click "Apply".
+
+
+--------------------------------------------------------------------------------
+                                  CREDITS
+--------------------------------------------------------------------------------
+- Designed and packaged by: ritam
+- Style: Minimal Precision (with #339cff Cyan Halo)
+- Platform: Microsoft Windows 10 / 11 (32-bit & 64-bit)
+================================================================================
