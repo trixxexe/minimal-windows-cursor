@@ -33,7 +33,9 @@ $ArrowFile = switch ($Variant) {
 
 $LinkFile    = Join-Path $CursorDir 'minimal_link_ritam.cur'
 $BeamFile    = Join-Path $CursorDir 'minimal_beam_ritam.cur'
-$WorkingFile = Join-Path $CursorDir 'minimal_working_ritam.cur'
+$WorkingAni  = Join-Path $CursorDir 'minimal_working_ritam.ani'
+$WorkingCur  = Join-Path $CursorDir 'minimal_working_ritam.cur'
+$WorkingFile = if (Test-Path $WorkingAni) { $WorkingAni } else { $WorkingCur }
 $BusyFile    = Join-Path $CursorDir 'minimal_busy_ritam.cur'
 $CrossFile   = Join-Path $CursorDir 'minimal_cross_ritam.cur'
 $HelpFile    = Join-Path $CursorDir 'minimal_help_ritam.cur'

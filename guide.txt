@@ -24,14 +24,15 @@ Main Arrow Cursors (Choose your favorite!):
 - minimal_neon_ritam.cur      : Deep neon cyan glow core.
 
 Complete System Cursors (All matching the Minimal Blue aesthetic):
+- minimal_working_ritam.ani   : Working in Background (Animated! Arrow + spinning cyan ring at upper-right)
+- minimal_working_ritam.cur   : Working in Background (Static fallback version)
+- minimal_unavail_ritam.cur   : Unavailable (Arrow + red circular 'X' badge at upper-right)
 - minimal_link_ritam.cur      : Hand / Link Select (with cyan touch badge)
 - minimal_beam_ritam.cur      : Text Select (I-Beam with cyan neon glow)
-- minimal_working_ritam.cur   : Working in Background (Arrow + orbital halo)
 - minimal_busy_ritam.cur      : Busy (Cyan orbital ring)
 - minimal_cross_ritam.cur     : Precision Select (Crosshair)
 - minimal_move_ritam.cur      : 4-Way Move
 - minimal_help_ritam.cur      : Help Select (Arrow + query badge)
-- minimal_unavail_ritam.cur   : Unavailable / Forbidden
 - minimal_size_ns_ritam.cur   : Vertical Resize
 - minimal_size_we_ritam.cur   : Horizontal Resize
 - minimal_size_nwse_ritam.cur : Diagonal Resize 1

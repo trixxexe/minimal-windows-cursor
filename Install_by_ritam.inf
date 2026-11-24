@@ -15,13 +15,14 @@ AddReg    = Scheme.Reg
 Scheme.Files = 10, "Cursors\Minimal_by_ritam"
 
 [Scheme.Reg]
-HKCU, "Control Panel\Cursors\Schemes", "Minimal (by ritam)", 0x00000000, "%%10%%\Cursors\Minimal_by_ritam\minimal_arrow_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_help_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_working_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_busy_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_cross_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_beam_ritam.cur,,,%%10%%\Cursors\Minimal_by_ritam\minimal_unavail_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_ns_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_we_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_nwse_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_nesw_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_move_ritam.cur,,%%10%%\Cursors\Minimal_by_ritam\minimal_link_ritam.cur"
+HKCU, "Control Panel\Cursors\Schemes", "Minimal (by ritam)", 0x00000000, "%%10%%\Cursors\Minimal_by_ritam\minimal_arrow_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_help_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_working_ritam.ani,%%10%%\Cursors\Minimal_by_ritam\minimal_busy_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_cross_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_beam_ritam.cur,,,%%10%%\Cursors\Minimal_by_ritam\minimal_unavail_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_ns_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_we_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_nwse_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_size_nesw_ritam.cur,%%10%%\Cursors\Minimal_by_ritam\minimal_move_ritam.cur,,%%10%%\Cursors\Minimal_by_ritam\minimal_link_ritam.cur"
 
 [Scheme.Files]
 minimal_arrow_ritam.cur
 minimal_vibrant_ritam.cur
 minimal_neon_ritam.cur
 minimal_help_ritam.cur
+minimal_working_ritam.ani
 minimal_working_ritam.cur
 minimal_busy_ritam.cur
 minimal_cross_ritam.cur

@@ -33,14 +33,15 @@ Unlike third-party mouse software or overlay applications (like MouseX or cursor
 | `minimal_arrow_ritam.cur` | **Normal Select (Default)** | Obsidian body, silver outline, `#339cff` cyan glow |
 | `minimal_vibrant_ritam.cur` | **Normal Select (Vibrant)** | Electric cyber-blue body with silver outline & cyan glow |
 | `minimal_neon_ritam.cur` | **Normal Select (Neon)** | Deep cyan glow core |
+| `minimal_working_ritam.ani` | **Working in Background (Animated)** | Arrow paired with rotating cyan spinner ring at upper-right |
+| `minimal_working_ritam.cur` | **Working in Background (Static)** | Static fallback version with upper-right cyan ring |
+| `minimal_unavail_ritam.cur` | **Unavailable** | Arrow paired with upper-right red circular 'X' badge |
 | `minimal_link_ritam.cur` | **Link / Hand Select** | Arrow with glowing cyan touch indicator |
 | `minimal_beam_ritam.cur` | **Text Select (I-Beam)** | Precision I-Beam with cyan neon illumination |
-| `minimal_working_ritam.cur` | **Working in Background** | Arrow paired with glowing orbital accent |
 | `minimal_busy_ritam.cur` | **Busy** | Orbital cyan ring |
 | `minimal_cross_ritam.cur` | **Precision Select** | Crosshair |
 | `minimal_move_ritam.cur` | **4-Way Move** | Pan / Move arrows |
 | `minimal_help_ritam.cur` | **Help Select** | Arrow with query badge |
-| `minimal_unavail_ritam.cur` | **Unavailable** | Forbidden indicator |
 | `minimal_size_*_ritam.cur` | **Resizing** | Vertical, horizontal & diagonal resize cursors |
 | `Install_by_ritam.inf` | **Setup File** | Standard Windows Right-Click $\rightarrow$ Install file |
 | `Install_Live_by_ritam.ps1` | **Live Script** | 1-click live desktop activation (pwsh & WinPS) |
